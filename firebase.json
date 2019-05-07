@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "thx2famAppDir",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
